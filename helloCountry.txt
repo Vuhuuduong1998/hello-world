@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 needed to do something
+=======
+hello worlds
+>>>>>>> Duong2
